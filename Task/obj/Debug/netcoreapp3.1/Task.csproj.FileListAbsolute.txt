@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\obj\Debug\netcoreapp3.1\Task.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\obj\Debug\netcoreapp3.1\Task.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\bin\Debug\netcoreapp3.1\Task.exe
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\bin\Debug\netcoreapp3.1\Task.deps.json
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.json
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\bin\Debug\netcoreapp3.1\Task.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\bin\Debug\netcoreapp3.1\Task.dll
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\bin\Debug\netcoreapp3.1\Task.pdb
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\obj\Debug\netcoreapp3.1\Task.dll
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\obj\Debug\netcoreapp3.1\Task.pdb
+C:\Users\Korisnik\Desktop\console app\7\Task\Task\obj\Debug\netcoreapp3.1\Task.genruntimeconfig.cache
